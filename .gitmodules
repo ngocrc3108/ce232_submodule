@@ -1,3 +1,6 @@
 [submodule "ce232_backend"]
 	path = ce232_backend
 	url = https://github.com/ngocrc3108/ce232_backend
+[submodule "ce232_frontend"]
+	path = ce232_frontend
+	url = https://github.com/ngocrc3108/ce232_frontend
