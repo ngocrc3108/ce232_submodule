@@ -4,3 +4,6 @@
 [submodule "ce232_frontend"]
 	path = ce232_frontend
 	url = https://github.com/ngocrc3108/ce232_frontend
+[submodule "CE232_do_an_esp"]
+	path = CE232_do_an_esp
+	url = https://github.com/ngocrc3108/CE232_do_an_esp.git
