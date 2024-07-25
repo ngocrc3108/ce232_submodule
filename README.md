@@ -11,6 +11,7 @@
     - Người dùng có thể đăng nhập, đăng ký.
     - Hỗ trợ người dùng thêm mới các thiết bị một cách dễ dàng, thuận tiện.
 # Demo
+- [Link website](https://ce232-submodule.onrender.com/login).
 - [Demo](https://youtu.be/jzDClkvZomQ) điều khiển các thiết bị, hẹn giờ led.
 - [Demo](https://youtu.be/7z1hmoy8tpo) tạo tài khoản, đăng nhập, thêm thiết bị.
 # Thiết kế kiến trúc hệ thống
