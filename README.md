@@ -27,6 +27,6 @@
 - Điều khiển đèn led trực tiếp bằng GPIO.
 ## Website
 - Backend: sử dụng framework Express.js (Node.js) để viết API.
-- Fontend: Sử dụng thư viện React kết hợp với Material IU.
+- Fontend: Sử dụng thư viện React kết hợp với Material UI.
 - Hosting: Sử dụng dịch vụ hosting miễn phí [render.com](https://render.com/).
 ![](/images/web.png)
