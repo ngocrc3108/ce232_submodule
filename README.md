@@ -12,8 +12,8 @@
     - Hỗ trợ người dùng thêm mới các thiết bị một cách dễ dàng, thuận tiện.
 # Demo
 - [Link website](https://ce232-submodule.onrender.com/login).
-- [Demo](https://youtu.be/jzDClkvZomQ) điều khiển các thiết bị, hẹn giờ led.
-- [Demo](https://youtu.be/7z1hmoy8tpo) tạo tài khoản, đăng nhập, thêm thiết bị.
+- [Demo](https://youtu.be/7z1hmoy8tpo) điều khiển các thiết bị, hẹn giờ led.
+- [Demo](https://youtu.be/jzDClkvZomQ) tạo tài khoản, đăng nhập, thêm thiết bị.
 # Thiết kế kiến trúc hệ thống
 ![](/images/kien_truc_he_thong.png)\
 - ESP32 dùng để điều khiến các thiết bị phần cứng (quạt, đèn, cửa).
